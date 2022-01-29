@@ -1,3 +1,3 @@
 - Graphics
-    i. Question1
-    ii. Question2
+    1. Question1
+    2. Question2
